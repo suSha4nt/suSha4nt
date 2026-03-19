@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Susanta Sekhar</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🌱 I’m currently Studing -  **MCA @ CGU' BBSR**🏫
+- 🌱 I’m have completed -  **MCA @ CGU' Bhubaneswar 2025**🏫
 
 - 💽 I’m currently learning **Spring || DSA**🧰
 
