@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently Studing -  **MCA @ CGU' BBSR**🏫
 
-- 💽 I’m currently learning **Machine Learning || DSA**🧰
+- 💽 I’m currently learning **Spring || DSA**🧰
 
 - 💬 Ask me about **Backend Developement**⏏️
 
